@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Iowa
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `683261` |
 | Location | Iowa |
 | Category | Food and Drink |
-| Full dataset size | 222 records |
-| Free sample size | 22 records (9.91%) |
-| Last export | 2026-04-16T22:42:43.299527+00:00 |
+| Full dataset size | 260 records |
+| Free sample size | 26 records (10.0%) |
+| Last export | 2026-04-23T17:20:38.235509+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-683261/releases/download/sample-latest/beamstation_683261_food_and_drink-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
